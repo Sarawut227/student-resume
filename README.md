@@ -1,4 +1,4 @@
-# Resume Project
+student-resume
 
 - ชื่อ: นาย สราวุธ ติยะวงศ์ 
 - รหัสนักศึกษา: 45018
